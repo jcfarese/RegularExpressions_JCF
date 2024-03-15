@@ -1,0 +1,7 @@
+(G|g)(loom)[a-zA-Z]*|5
+(H|h)(aunt)[a-zA-Z]*|3
+(M|m)(yster)[a-zA-Z]*|19
+(F|f)(orebod)[a-zA-Z]*|0
+(M|m)(elanchol)[a-zA-Z]*|5
+(T|t)(error)[a-zA-Z]*|29
+(D|d)(esolat)[a-zA-Z]*|1
