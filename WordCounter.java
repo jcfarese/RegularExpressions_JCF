@@ -3,7 +3,7 @@
  * It then prints the total counts for each regex pattern.
  * @author Jim Farese
  * @version 1.0
- * Assignment 
+ * Assignment 4
  * CS322 - Compiler Construction
  * Spring 2024
  */
